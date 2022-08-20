@@ -55,3 +55,19 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.slider h3,
+.slider h5 {
+   text-shadow: 3px 2px 1px rgba(0, 0, 0, 1)
+}
+
+
+.services {
+  height: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+
+
